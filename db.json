@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "merima.ceranic@test.com",
+      "password": "merimaceranic123",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 1
+    }
+  ]
+}
