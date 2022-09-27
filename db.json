@@ -1,10 +1,11 @@
 {
   "users": [
     {
-      "email": "merima.ceranic@test.com",
-      "password": "merimaceranic123",
-      "firstName": "Merima",
-      "lastName": "Ceranic",
+      "email": "admin@test.com",
+      "password": "$2a$10$m53Ejd1CSdxsa2nPhUKKgOrvcB2VeFhbTjOOEUKyRCs2Geyt.eLgy",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "isAdmin": true,
       "id": 1
     }
   ]
