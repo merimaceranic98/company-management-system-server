@@ -6,7 +6,81 @@
       "firstName": "Admin",
       "lastName": "Admin",
       "isAdmin": true,
-      "id": 1
+      "id": 1,
+      "departmentId": 1
+    },
+    {
+      "email": "julioamando@test.com",
+      "password": "$2a$10$0xHnls9EdDz3kdU0zdnSR.a/0vd0mgjaoZxmuXYwuRzU5ejKAyB5a",
+      "firstName": "Julio",
+      "lastName": "Amando",
+      "isAdmin": false,
+      "id": 2,
+      "departmentId": 1
+    },
+    {
+      "email": "pedrorodrigues@test.com",
+      "password": "$2a$10$/340B56JXLLYTFmJheawdO6itXgT6RyF8e9Q7X1u7/Nu4ksNKHR/K",
+      "firstName": "pedro",
+      "lastName": "rodriguez",
+      "isAdmin": false,
+      "id": 3,
+      "departmentId": 1
+    },
+    {
+      "email": "amiliahomez@test.com",
+      "password": "$2a$10$f5iOkFlhkYSwOelOclv0ROUbtXLV920jy8J4Z26i/dBq9W5K6dHBq",
+      "firstName": "amilia",
+      "lastName": "homez",
+      "isAdmin": false,
+      "id": 4,
+      "departmentId": 1
+    },
+    {
+      "email": "claudiaregex@test.com",
+      "password": "$2a$10$LkbNZGMpHeweDhiaVhh81OJgtaJi97X/QyYUQaqKECbTe9V/8.z5.",
+      "firstName": "claudia",
+      "lastName": "regex",
+      "isAdmin": false,
+      "id": 5,
+      "departmentId": 1
+    },
+    {
+      "email": "patrizialoue@test.com",
+      "password": "$2a$10$VWQsWvm7vOrtyUsUXjNWAeD6zmWEac2A08oYaaEsXOXdZUjtZHu0m",
+      "firstName": "patrizia",
+      "lastName": "loue",
+      "isAdmin": false,
+      "id": 6,
+      "departmentId": 1
+    },
+    {
+      "email": "fridayaugusto@test.com",
+      "password": "$2a$10$U5eT5WALEHOFwJwOvYcRz.VarqKk2pAmh96p1Ie79F1zb9m4te5vW",
+      "image": null,
+      "role": null,
+      "departmentId": 0,
+      "previousExperience": [],
+      "gender": null,
+      "isAdmin": false,
+      "yearsOfEmployement": 0,
+      "firstName": "Friday",
+      "lastName": "Augusto",
+      "id": 7
+    }
+  ],
+  "departments": [
+    {
+      "id": 0,
+      "name": "Not assigned"
+    },
+    {
+      "id": 1,
+      "name": "Web Development"
+    },
+    {
+      "id": 2,
+      "name": "Backend Development"
     }
   ]
 }
